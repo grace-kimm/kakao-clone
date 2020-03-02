@@ -1,2 +1,3 @@
 # kakao-clone
- kakao clone from nomadcoder
+
+Kakao desktop app clone
